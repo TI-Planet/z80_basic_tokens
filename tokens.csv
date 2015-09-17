@@ -1,4 +1,4 @@
-Category,Sub-category,Sub-sub-category,Name,Readable Name,Readable Name (FR),# of bytes,Byte 1,Byte 2,Variable R/W status,Type,Argument(s) type(s) & value(s),Return type & value,Comments,Description
+﻿Category,Sub-category,Sub-sub-category,Name,Readable Name,Readable Name (FR),# of bytes,Byte 1,Byte 2,Variable R/W status,Type,Argument(s) type(s) & value(s),Return type & value,Comments,Description
 ,,,,,,1,0,,,Other,,,,
 ,,,\uf014DMS,►DMS,►DMS,1,1,,,Postfix operator,,,,
 ,,,\uf014Dec,►Dec,►Dec,1,2,,,Postfix operator,,,,
