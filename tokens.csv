@@ -61,7 +61,9 @@
 ,,, or , or ,ou,1,3C,,,Infix operator,,,,
 ,,, xor , xor ,ouExcl,1,3D,,,Infix operator,,,,
 ,,,:,:,:,1,3E,,,Delimiter,,,,
-,,,\n,\n,\n,1,3F,,,Delimiter,,,,
+,,,\n,"
+","
+",1,3F,,,Delimiter,,,,
 ,,, and , and ,et,1,40,,,Infix operator,,,,
 ,,,A,A,A,1,41,,Read/Write,Variable,,,,
 ,,,B,B,B,1,42,,Read/Write,Variable,,,,
