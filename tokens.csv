@@ -760,6 +760,7 @@
 ,,,BackgroundOn ,BackgroundOn ,ArrPlanAff ,2,EF,5B,,Action,,,,
 ,,,BackgroundOff,BackgroundOff,ArrPlanNAff,2,EF,64,,Action,,,,
 ,,,GraphColor(,GraphColor(,CouleurGraph(,2,EF,65,,Function,,,,
+,,,QuickPlot&Fit-EQ,QuickPlot&Fit-EQ,TracéAjust-Éq,2,EF,66,,Action,,,84+CSE and later,
 ,,,TextColor(,TextColor(,CouleurTexte(,2,EF,67,,Function,,,,
 ,,,Asm84CPrgm,Asm84CPrgm,Asm84CPrgm,2,EF,68,,BASIC instruction only,,,,
 ,,,DetectAsymOn,DetectAsymOn,DétectAsymAct,2,EF,6A,,Action,,,,
