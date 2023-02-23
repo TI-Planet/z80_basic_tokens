@@ -645,7 +645,7 @@
 ,,,sinh(,sinh(,sh(,1,C8,,,Function,,,,
 ,,,sinh\uf005(,sinh⁻¹(,Argsh(,1,C9,,,Function,,,,
 ,,,cosh(,cosh(,ch(,1,CA,,,Function,,,,
-,,,cosh\uf005(,soch⁻¹(,Argch(,1,CB,,,Function,,,,
+,,,cosh\uf005(,cosh⁻¹(,Argch(,1,CB,,,Function,,,,
 ,,,tanh(,tanh(,th(,1,CC,,,Function,,,,
 ,,,tanh\uf005(,tanh⁻¹(,Argth(,1,CD,,,Function,,,,
 ,,,If ,If ,If ,1,CE,,,BASIC instruction only,,,,
